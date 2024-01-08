@@ -1,0 +1,17 @@
+/* add your styles here */
+
+#parent{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+
+}
+
+img{
+  height: 100%;
+  width: 100%;
+}
+
+h3{
+  text-align: center;
+}
