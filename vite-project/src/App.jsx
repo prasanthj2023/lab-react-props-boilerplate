@@ -1,5 +1,5 @@
 import "./App.css";
-import imageData from "./DataComponent";
+import imageData from "./Components/data"
 
 function App() {
   const image = imageData();
